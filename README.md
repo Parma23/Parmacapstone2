@@ -1,4 +1,4 @@
-# Parmacapstone2
+# Parmastreamlit
 
 ## Purpose
 This is a application built in the Coding Tample's full-time data analytics program created by Parma
